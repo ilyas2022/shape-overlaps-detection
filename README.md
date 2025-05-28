@@ -263,7 +263,7 @@ This portfolio addresses all requirements of the reporting task for the assignme
 
 **For a full understanding of the project, including in-depth explanations of algorithms, system architecture, and design principles, please refer to the comprehensive online portfolio:**
 
-➡️ **[Link to your detailed online portfolio (e.g., GitHub Pages, Notion) - PLEASE UPDATE THIS LINK!]**
+➡️ **https://www.notion.so/Shape-Overlaps-Detection-System-201498edb80380318be3ea2be5c798d8?pvs=4**
 
 This portfolio addresses all requirements of the reporting task for the assignment.
 
@@ -275,4 +275,3 @@ This portfolio addresses all requirements of the reporting task for the assignme
 - Mobile responsive design for the frontend.
 
 ---
-*This README was enhanced with the assistance of an AI tool.* 
